@@ -1,3 +1,3 @@
 ListSort-Enterprise-Edition
 ===========================
-Imspired by [a link](http://codegolf.stackexchange.com/a/16296)
+Inspired by [this](http://codegolf.stackexchange.com/a/16296)
